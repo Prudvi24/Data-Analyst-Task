@@ -1,0 +1,12 @@
+2023-08-30 11:21:42,000 root INFO Logging of cointab begins
+2023-08-30 11:21:42,274 root INFO All the company X related data loaded successfully
+2023-08-30 11:21:42,316 root INFO All the courier company related data loaded successfully
+2023-08-30 11:21:42,320 root INFO merge_order_sku function execution completed
+2023-08-30 11:21:42,326 root INFO total weight as per x function execution completed
+2023-08-30 11:21:42,334 root INFO merged_sheet functions execution completed
+2023-08-30 11:21:42,758 root INFO calculate expected charges by x is execution completed
+2023-08-30 11:21:42,886 root INFO calculate weight slab as per courier company execution completed
+2023-08-30 11:21:42,890 root INFO Difference between the expected and billed are calculated successfully
+2023-08-30 11:21:42,894 root INFO Summary data generated using create_summary sheet function and execution completed
+2023-08-30 11:21:42,960 root INFO Final result generated in the same path
+2023-08-30 11:21:42,960 root INFO Logging of cointab ends
